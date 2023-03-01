@@ -21,7 +21,6 @@ class Todo(Document):
         return cls(user=user,title=title,description=description)
             
  
-
 class TodoUpdate(BaseModel):
     user:str
     title:str

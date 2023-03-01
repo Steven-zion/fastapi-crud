@@ -61,8 +61,6 @@ async def update_todo(id: PydanticObjectId, body: TodoUpdate,) -> Todo:
 
 
 
-
-
 @todo_router.delete("/{id}")
 async def delete_todo(id: PydanticObjectId) -> dict:
     todo = await todo_database.get(id)
