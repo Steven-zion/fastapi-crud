@@ -20,7 +20,7 @@ motor==3.1.1
 multidict==6.0.2
 packaging==21.3
 pluggy==1.0.0
-pydantic==1.10.2
+pydantic==1.10.13
 pymongo==4.3.2
 pyparsing==3.0.9
 pytest==7.2.0
