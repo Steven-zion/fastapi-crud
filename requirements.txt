@@ -12,7 +12,7 @@ gunicorn==23.0.0
 h11==0.16.0
 httpcore==0.15.0
 httpx==0.23.0
-idna==3.7
+idna==3.15
 iniconfig==1.1.1
 Jinja2==3.1.6
 MarkupSafe==2.1.1
