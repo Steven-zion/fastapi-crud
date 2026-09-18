@@ -1,4 +1,4 @@
-anyio==3.6.2
+anyio==4.14.2
 asgi-lifespan==1.0.1
 attrs==22.1.0
 beanie==1.13.1
